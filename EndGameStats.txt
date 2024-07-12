@@ -1,0 +1,3 @@
+Player number|Character name|win/lose|gold left|HP left|stamina left|Equipped1|Equipped2|Inventory 1-3 (| seperated)| Potions, num potions 1-3
+1|Argos|L|0|120|H|100|30|Argos' Fangs|Rusty Sword|Shield of Achilles|||Greater Health Potion,1|,0|,0
+2|Odysseus|W|0|88|P|100|20|Bow of Odysseus|Rusty Sword||||Greater Health Potion,1|,0|,0

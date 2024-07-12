@@ -1,0 +1,17 @@
+name|description|type|effect value|element|price
+Bow of Odysseus|Increases damage by 10|D|10|W|100
+Shield of Achilles|Increases defense by 10|S|10|E|100
+Circe's Wand|Increases damage by 15|D|15|W|125
+Argos' Fangs|Increases damage by 20|D|20|E|125
+Helios' Luminous Shield|Increases defense by 13|S|13|F|350
+Trident of Poseidon|Increases damage by 13|D|13|W|350
+Demeter's Harvest Armor|Increases defense by 15|S|15|E|350
+King's Blade|Increases damage by 6|D|6|E|0
+Fangs of Scylla|Increases damage by 6|D|6|E|0
+Cyclops Gaze|Increases defense by 5|S|5|A|0
+Ciconian Spear|Increases damage by 10|D|10|E|75
+Lotus Staff|Increases damage by 10|D|10|E|80
+Laestrygonian Club|Increases damage by 15|D|15|E|90
+Enchanted Wand|Increases damage by 10|D|10|A|100
+Nymph's Shield|Increases defense by 14|S|14|E|120
+Rusty Sword|Starting weapon|D|1|E|25
